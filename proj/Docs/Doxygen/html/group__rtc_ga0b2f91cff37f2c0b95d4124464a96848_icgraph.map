@@ -1,0 +1,7 @@
+<map id="read_time" name="read_time">
+<area shape="rect" id="node1" title="Reads the time and date and updates the variables." alt="" coords="447,31,525,57"/>
+<area shape="rect" id="node2" href="$group__rtc.html#gaa5ade5d5eea21026844fa4ce7225e5b2" title="Handles an interrupt and updates the variables accordingly." alt="" coords="292,5,399,32"/>
+<area shape="rect" id="node5" href="$group__loop.html#ga1d0a9e8eacacd66eda0603427f6f050c" title="Starts the game. Subscribes all the interrupts." alt="" coords="164,56,243,83"/>
+<area shape="rect" id="node3" href="$group__loop.html#ga859307c43da5908cb529781d87068c29" title="Main loop of the game. Handles all the interruptions." alt="" coords="163,5,244,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,115,57"/>
+</map>

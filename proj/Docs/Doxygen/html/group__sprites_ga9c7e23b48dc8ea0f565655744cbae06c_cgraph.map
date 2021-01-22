@@ -1,0 +1,8 @@
+<map id="erase_sprite" name="erase_sprite">
+<area shape="rect" id="node1" title="Erases the sprite by painting it all in black." alt="" coords="5,31,99,57"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga57cd22c02ee1e00c4752144b2afeb4a6" title="Gets the type of the xpm." alt="" coords="198,5,270,32"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga3b35e58ffcf6c8b9d8d17e16c5871091" title="Draws a pixel from the background buffer." alt="" coords="147,56,321,83"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga6db1212e26dd200901459f26252f1941" title="Draws a pixel with a given color at a given position." alt="" coords="369,56,472,83"/>
+<area shape="rect" id="node5" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="522,31,618,57"/>
+<area shape="rect" id="node6" href="$utils_8c.html#a6a880076cd2ec468834438b6e0c58836" title=" " alt="" coords="520,81,620,108"/>
+</map>

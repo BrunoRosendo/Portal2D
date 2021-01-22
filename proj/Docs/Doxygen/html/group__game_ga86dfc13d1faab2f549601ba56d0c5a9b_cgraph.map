@@ -1,0 +1,5 @@
+<map id="check_block_collisions" name="check_block_collisions">
+<area shape="rect" id="node1" title="Checks the collisions with everyblock and updates the character accordingly." alt="" coords="5,31,161,57"/>
+<area shape="rect" id="node2" href="$group__game.html#ga266c0023025abfd54b315b944678b1d4" title="Checks if a given block has a portal in it." alt="" coords="209,5,329,32"/>
+<area shape="rect" id="node3" href="$group__game.html#gabebc3cb599a91ce82529830166b28201" title="Checks if the character is colliding with a portal." alt="" coords="227,56,312,83"/>
+</map>

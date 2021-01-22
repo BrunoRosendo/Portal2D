@@ -1,0 +1,4 @@
+<map id="key_char_event" name="key_char_event">
+<area shape="rect" id="node1" title="state machine based on key events, which manages the characters" alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node2" href="$group__sprites.html#ga649ba4fde852b70e5be7953d8be7fe26" title="Flips a sprite by changing its map to map_reversed." alt="" coords="165,5,243,32"/>
+</map>

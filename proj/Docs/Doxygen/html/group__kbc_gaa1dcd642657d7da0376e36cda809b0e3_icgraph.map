@@ -1,0 +1,10 @@
+<map id="kbc_write_cmd" name="kbc_write_cmd">
+<area shape="rect" id="node1" title="Writes a command to the kbc driver." alt="" coords="800,9,909,36"/>
+<area shape="rect" id="node2" href="$group__mouse.html#gaa044a0679491bb27c1b0d22caaf54ba6" title="Restores the KBC and mouse to the Minix&#39;s default." alt="" coords="163,5,327,32"/>
+<area shape="rect" id="node3" href="$group__mouse.html#gaecdd51f940be83961956458c45d902e4" title="Writes a command to the mouse driver." alt="" coords="625,35,752,61"/>
+<area shape="rect" id="node4" href="$group__mouse.html#ga17bcf4b2536cf13c7f3937c7d0aa7bc1" title="Disables data reporting." alt="" coords="405,57,547,98"/>
+<area shape="rect" id="node7" href="$group__mouse.html#ga705c934f604e0f6364c2526ddb650451" title="Enables data reporting." alt="" coords="375,123,577,149"/>
+<area shape="rect" id="node5" href="$group__loop.html#gaddc4b52fdc6479b0fef3869eefbe4b1e" title="Ends the game and exits the program. Unsubscribes interrupts." alt="" coords="207,68,282,95"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,95,115,121"/>
+<area shape="rect" id="node8" href="$group__loop.html#ga1d0a9e8eacacd66eda0603427f6f050c" title="Starts the game. Subscribes all the interrupts." alt="" coords="205,120,284,147"/>
+</map>

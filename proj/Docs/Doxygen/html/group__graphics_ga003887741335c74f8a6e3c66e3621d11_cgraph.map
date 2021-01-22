@@ -1,0 +1,7 @@
+<map id="erase_everything" name="erase_everything">
+<area shape="rect" id="node1" title="Paints all the pixels black." alt="" coords="5,56,124,83"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga6db1212e26dd200901459f26252f1941" title="Draws a pixel with a given color at a given position." alt="" coords="172,31,275,57"/>
+<area shape="rect" id="node5" href="$group__graphics.html#ga6f289b89c6da2007efbc5be00881beb7" title="Gets a pixel and stores it." alt="" coords="177,81,270,108"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="325,5,421,32"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a6a880076cd2ec468834438b6e0c58836" title=" " alt="" coords="323,56,423,83"/>
+</map>

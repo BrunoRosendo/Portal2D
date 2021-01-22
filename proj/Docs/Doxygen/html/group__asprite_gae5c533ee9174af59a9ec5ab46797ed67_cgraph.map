@@ -1,0 +1,8 @@
+<map id="animate_asprite" name="animate_asprite">
+<area shape="rect" id="node1" title="Animates a given sprite." alt="" coords="5,31,120,57"/>
+<area shape="rect" id="node2" href="$group__sprites.html#ga740994f8c16c38bf18eaabac1f5eeeb9" title="Draws a given Sprite." alt="" coords="168,31,256,57"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga57cd22c02ee1e00c4752144b2afeb4a6" title="Gets the type of the xpm." alt="" coords="319,5,391,32"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga6db1212e26dd200901459f26252f1941" title="Draws a pixel with a given color at a given position." alt="" coords="304,56,407,83"/>
+<area shape="rect" id="node5" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="457,31,553,57"/>
+<area shape="rect" id="node6" href="$utils_8c.html#a6a880076cd2ec468834438b6e0c58836" title=" " alt="" coords="455,81,555,108"/>
+</map>

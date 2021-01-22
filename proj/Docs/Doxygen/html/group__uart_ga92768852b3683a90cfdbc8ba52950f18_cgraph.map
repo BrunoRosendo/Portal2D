@@ -1,0 +1,6 @@
+<map id="uart_end" name="uart_end">
+<area shape="rect" id="node1" title="Unsubscribes UART&#39;s interrupts and disables everything related." alt="" coords="5,31,77,57"/>
+<area shape="rect" id="node2" href="$group__uart.html#ga43b31bda595636efdc402f1f25c4b2f1" title="Disables all the interrupts." alt="" coords="125,5,279,32"/>
+<area shape="rect" id="node4" href="$group__uart.html#ga84746c62c5374723a1a228d1f9da21b4" title="Unsubscribes the interruptions of the UART." alt="" coords="131,56,273,83"/>
+<area shape="rect" id="node3" href="$group__uart.html#ga13deadb71c874e13fdc22fd96491d051" title="Writes to a UART reg (COM1), specified by the reg_offset parameter (use the REG_XXX macros)" alt="" coords="327,5,429,32"/>
+</map>

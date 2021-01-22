@@ -1,0 +1,5 @@
+<map id="read_out_buffer" name="read_out_buffer">
+<area shape="rect" id="node1" title="Reads a byte from the KFC_OUT_BUF." alt="" coords="5,31,116,57"/>
+<area shape="rect" id="node2" href="$group__kbc.html#gad4f32d9fedea9a943870a7054baf77da" title="Checks if we can read from the Output Buffer." alt="" coords="164,5,288,32"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="336,31,427,57"/>
+</map>

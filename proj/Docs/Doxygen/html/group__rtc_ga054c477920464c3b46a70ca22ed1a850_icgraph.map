@@ -1,0 +1,14 @@
+<map id="get_month" name="get_month">
+<area shape="rect" id="node1" title="Gets the month." alt="" coords="925,21,1008,48"/>
+<area shape="rect" id="node2" href="$group__font.html#ga5ac06a493714b2d11336cb841ad38e34" title="Draws all the time and dates sprites and saves them to a given array." alt="" coords="796,21,877,48"/>
+<area shape="rect" id="node3" href="$group__game.html#ga8fe6fe827e29e6b0cb98cda00dc38355" title="Draws a new frame and erases the old one." alt="" coords="306,21,425,48"/>
+<area shape="rect" id="node6" href="$group__game.html#ga47d86c55c1bc9d2a93df0b9476c4d630" title="Starts a stage of the game (menu, single/coop, editor)" alt="" coords="669,72,748,98"/>
+<area shape="rect" id="node4" href="$group__loop.html#ga859307c43da5908cb529781d87068c29" title="Main loop of the game. Handles all the interruptions." alt="" coords="163,122,244,149"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,148,115,174"/>
+<area shape="rect" id="node7" href="$group__game.html#ga4aeca837a06b6b295f45548c8cd73916" title="Handles a key event." alt="" coords="301,173,430,200"/>
+<area shape="rect" id="node8" href="$group__game.html#ga4119d9aa4e3a6a8e6e25b367c0a92621" title="Checks if the user clicked in a button and changes the game state if he did." alt="" coords="503,72,605,98"/>
+<area shape="rect" id="node10" href="$group__game.html#gad07d1f8414c2864cae1e9bb8eb6660c3" title="Reads the next level from its respective file." alt="" coords="487,21,621,48"/>
+<area shape="rect" id="node11" href="$group__loop.html#ga1d0a9e8eacacd66eda0603427f6f050c" title="Starts the game. Subscribes all the interrupts." alt="" coords="164,198,243,225"/>
+<area shape="rect" id="node12" href="$group__game.html#gaae1249bceab30abf75fe16cb1349f762" title="Handles an event caused by receiving a message from the serial port." alt="" coords="489,122,619,149"/>
+<area shape="rect" id="node9" href="$group__game.html#ga799bfa7634b03cae400ad3105ea012bb" title="Handles a mouse event and updates the cursor accordingly." alt="" coords="292,72,439,98"/>
+</map>

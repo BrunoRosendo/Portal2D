@@ -1,0 +1,11 @@
+<map id="exit_menu" name="exit_menu">
+<area shape="rect" id="node1" title="Exits the menu and destroys all its sprites." alt="" coords="5,56,88,83"/>
+<area shape="rect" id="node2" href="$group__sprites.html#gaf16c6befaac9ffb673b9e3c798d542ed" title="Destroys a given Sprite." alt="" coords="136,31,240,57"/>
+<area shape="rect" id="node3" href="$group__menu.html#gac5f3c142a60479b25f04b87ee7299a3d" title="Erases the menu&#39;s sprites." alt="" coords="141,81,235,108"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga003887741335c74f8a6e3c66e3621d11" title="Paints all the pixels black." alt="" coords="288,56,407,83"/>
+<area shape="rect" id="node9" href="$group__graphics.html#ga744561a7456fbbec0aaff5edc7fac6f4" title="Changes the state of the main_buffer variable to !main_buffer." alt="" coords="311,107,384,133"/>
+<area shape="rect" id="node5" href="$group__graphics.html#ga6db1212e26dd200901459f26252f1941" title="Draws a pixel with a given color at a given position." alt="" coords="455,31,557,57"/>
+<area shape="rect" id="node8" href="$group__graphics.html#ga6f289b89c6da2007efbc5be00881beb7" title="Gets a pixel and stores it." alt="" coords="459,81,553,108"/>
+<area shape="rect" id="node6" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="607,5,703,32"/>
+<area shape="rect" id="node7" href="$utils_8c.html#a6a880076cd2ec468834438b6e0c58836" title=" " alt="" coords="605,56,705,83"/>
+</map>

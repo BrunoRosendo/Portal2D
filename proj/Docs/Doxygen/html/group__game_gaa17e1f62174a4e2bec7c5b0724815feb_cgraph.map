@@ -1,0 +1,6 @@
+<map id="editor_draw_element" name="editor_draw_element">
+<area shape="rect" id="node1" title="Draws an element of the level." alt="" coords="5,31,147,57"/>
+<area shape="rect" id="node2" href="$group__sprites.html#gaffac42b8b55dacd08b584a6d2d2214cb" title="Creates a new struct Sprite." alt="" coords="195,5,292,32"/>
+<area shape="rect" id="node4" href="$group__game.html#gab3a6355d253f935f4a5b835253cb714c" title="Checks if there&#39;s a block at a given positions and returns it." alt="" coords="203,56,283,83"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga57cd22c02ee1e00c4752144b2afeb4a6" title="Gets the type of the xpm." alt="" coords="340,5,412,32"/>
+</map>

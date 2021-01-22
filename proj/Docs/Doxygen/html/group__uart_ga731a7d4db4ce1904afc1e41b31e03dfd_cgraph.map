@@ -1,0 +1,9 @@
+<map id="uart_write_message" name="uart_write_message">
+<area shape="rect" id="node1" title="Writes a full message to the Transmitter Holding Register and checks the ACK bytes." alt="" coords="5,56,144,83"/>
+<area shape="rect" id="node2" href="$group__uart.html#ga00788f2b580f6b89208df4573d2ba009" title="Stashes everything in the Receiver Buffer." alt="" coords="358,5,446,32"/>
+<area shape="rect" id="node5" href="$group__uart.html#gad0a1f1c8cb9a423a7f4ae281b9f0b343" title="Reads and acknowledge byte." alt="" coords="195,56,299,83"/>
+<area shape="rect" id="node6" href="$group__uart.html#gac6dd54c7e1aa60bcf0796168f1a5d922" title="Writes a character to the Transmitter Holding Register." alt="" coords="192,107,303,133"/>
+<area shape="rect" id="node3" href="$group__uart.html#ga5f82b3d0cedfb88c35c6ef3e7a1411b4" title="Reads a UART reg (COM1), specified by the reg_offset parameter (use the REG_XXX macros)" alt="" coords="501,56,603,83"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="651,56,741,83"/>
+<area shape="rect" id="node7" href="$group__uart.html#ga13deadb71c874e13fdc22fd96491d051" title="Writes to a UART reg (COM1), specified by the reg_offset parameter (use the REG_XXX macros)" alt="" coords="351,157,453,184"/>
+</map>

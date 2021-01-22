@@ -1,0 +1,4 @@
+<map id="end_font" name="end_font">
+<area shape="rect" id="node1" title="Frees the font&#39;s sprites." alt="" coords="5,5,76,32"/>
+<area shape="rect" id="node2" href="$group__sprites.html#gaf16c6befaac9ffb673b9e3c798d542ed" title="Destroys a given Sprite." alt="" coords="124,5,228,32"/>
+</map>

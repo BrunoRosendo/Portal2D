@@ -1,0 +1,9 @@
+<map id="erase_menu" name="erase_menu">
+<area shape="rect" id="node1" title="Erases the menu&#39;s sprites." alt="" coords="5,81,99,108"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga003887741335c74f8a6e3c66e3621d11" title="Paints all the pixels black." alt="" coords="147,56,265,83"/>
+<area shape="rect" id="node7" href="$group__graphics.html#ga744561a7456fbbec0aaff5edc7fac6f4" title="Changes the state of the main_buffer variable to !main_buffer." alt="" coords="169,107,243,133"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga6db1212e26dd200901459f26252f1941" title="Draws a pixel with a given color at a given position." alt="" coords="313,31,416,57"/>
+<area shape="rect" id="node6" href="$group__graphics.html#ga6f289b89c6da2007efbc5be00881beb7" title="Gets a pixel and stores it." alt="" coords="318,81,411,108"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="466,5,562,32"/>
+<area shape="rect" id="node5" href="$utils_8c.html#a6a880076cd2ec468834438b6e0c58836" title=" " alt="" coords="464,56,564,83"/>
+</map>

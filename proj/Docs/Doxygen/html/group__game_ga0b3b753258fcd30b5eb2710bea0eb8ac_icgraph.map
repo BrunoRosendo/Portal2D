@@ -1,0 +1,5 @@
+<map id="get_game_state" name="get_game_state">
+<area shape="rect" id="node1" title="Gets the state of the game." alt="" coords="292,5,407,32"/>
+<area shape="rect" id="node2" href="$group__loop.html#ga859307c43da5908cb529781d87068c29" title="Main loop of the game. Handles all the interruptions." alt="" coords="163,5,244,32"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

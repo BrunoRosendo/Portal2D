@@ -1,0 +1,9 @@
+<map id="write_mouse_cmd" name="write_mouse_cmd">
+<area shape="rect" id="node1" title="Writes a command to the mouse driver." alt="" coords="5,56,132,83"/>
+<area shape="rect" id="node2" href="$group__kbc.html#gab7c3aa73d53fa86cf82ef40b5032784d" title="Writes an argument to the KBC_ARG Register." alt="" coords="184,5,287,32"/>
+<area shape="rect" id="node5" href="$group__kbc.html#gaa1dcd642657d7da0376e36cda809b0e3" title="Writes a command to the kbc driver." alt="" coords="181,56,290,83"/>
+<area shape="rect" id="node6" href="$group__kbc.html#ga7329d6823bd341f859b9b6123befb25e" title="Reads a byte from the KFC_OUT_BUF." alt="" coords="180,107,291,133"/>
+<area shape="rect" id="node3" href="$group__kbc.html#ga2c9751f3d78870779ad3cbcf7256aab5" title="Checks if we can write to the Input Buffer." alt="" coords="339,31,465,57"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="513,81,604,108"/>
+<area shape="rect" id="node7" href="$group__kbc.html#gad4f32d9fedea9a943870a7054baf77da" title="Checks if we can read from the Output Buffer." alt="" coords="340,132,464,159"/>
+</map>

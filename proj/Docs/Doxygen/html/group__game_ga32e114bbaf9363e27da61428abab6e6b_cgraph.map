@@ -1,0 +1,15 @@
+<map id="game_end" name="game_end">
+<area shape="rect" id="node1" title="Ends a stage of the game (menu, single/coop, editor)" alt="" coords="5,87,88,114"/>
+<area shape="rect" id="node2" href="$group__game.html#ga96f1b31dfabf979c2ebf3129e9f7aa6e" title="Destroys all the sprites and frees the memory." alt="" coords="267,62,397,88"/>
+<area shape="rect" id="node11" href="$group__game.html#ga14d8fcf1bebb8e38a43aaa450e6c2592" title="Closes the level editor and writes the level to a text file." alt="" coords="136,62,219,88"/>
+<area shape="rect" id="node12" href="$group__menu.html#gac5f3c142a60479b25f04b87ee7299a3d" title="Erases the menu&#39;s sprites." alt="" coords="285,138,379,164"/>
+<area shape="rect" id="node13" href="$group__menu.html#ga2eb36585daa958eb64c7f31bf98fd970" title="Exits the menu and destroys all its sprites." alt="" coords="136,112,219,139"/>
+<area shape="rect" id="node3" href="$group__asprite.html#ga3ba5f13cec7e44bec201741e10565be8" title="Destroys a given animated sprite." alt="" coords="449,62,560,88"/>
+<area shape="rect" id="node4" href="$group__sprites.html#gaf16c6befaac9ffb673b9e3c798d542ed" title="Destroys a given Sprite." alt="" coords="612,11,716,38"/>
+<area shape="rect" id="node5" href="$group__graphics.html#ga003887741335c74f8a6e3c66e3621d11" title="Paints all the pixels black." alt="" coords="445,163,564,190"/>
+<area shape="rect" id="node10" href="$group__graphics.html#ga744561a7456fbbec0aaff5edc7fac6f4" title="Changes the state of the main_buffer variable to !main_buffer." alt="" coords="468,112,541,139"/>
+<area shape="rect" id="node6" href="$group__graphics.html#ga6db1212e26dd200901459f26252f1941" title="Draws a pixel with a given color at a given position." alt="" coords="613,188,715,215"/>
+<area shape="rect" id="node9" href="$group__graphics.html#ga6f289b89c6da2007efbc5be00881beb7" title="Gets a pixel and stores it." alt="" coords="617,138,711,164"/>
+<area shape="rect" id="node7" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="766,163,862,190"/>
+<area shape="rect" id="node8" href="$utils_8c.html#a6a880076cd2ec468834438b6e0c58836" title=" " alt="" coords="764,214,864,240"/>
+</map>

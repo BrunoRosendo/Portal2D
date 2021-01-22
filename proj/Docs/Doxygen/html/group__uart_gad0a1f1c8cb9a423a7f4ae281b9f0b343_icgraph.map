@@ -1,0 +1,8 @@
+<map id="uart_read_ack" name="uart_read_ack">
+<area shape="rect" id="node1" title="Reads and acknowledge byte." alt="" coords="673,31,777,57"/>
+<area shape="rect" id="node2" href="$group__uart.html#ga731a7d4db4ce1904afc1e41b31e03dfd" title="Writes a full message to the Transmitter Holding Register and checks the ACK bytes." alt="" coords="487,31,625,57"/>
+<area shape="rect" id="node3" href="$group__game.html#ga4aeca837a06b6b295f45548c8cd73916" title="Handles a key event." alt="" coords="301,5,430,32"/>
+<area shape="rect" id="node6" href="$group__game.html#ga799bfa7634b03cae400ad3105ea012bb" title="Handles a mouse event and updates the cursor accordingly." alt="" coords="292,56,439,83"/>
+<area shape="rect" id="node4" href="$group__loop.html#ga859307c43da5908cb529781d87068c29" title="Main loop of the game. Handles all the interruptions." alt="" coords="163,31,244,57"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,115,57"/>
+</map>

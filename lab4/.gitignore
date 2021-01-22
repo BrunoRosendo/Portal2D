@@ -1,0 +1,6 @@
+*.o
+*.d
+lab4
+trace.txt
+.depend
+.gdbinit

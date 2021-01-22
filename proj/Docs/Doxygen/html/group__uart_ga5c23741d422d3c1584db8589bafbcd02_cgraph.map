@@ -1,0 +1,10 @@
+<map id="uart_set_bitrate" name="uart_set_bitrate">
+<area shape="rect" id="node1" title="Sets the UART&#39;s bitrate." alt="" coords="5,107,117,133"/>
+<area shape="rect" id="node2" href="$group__uart.html#ga05359b9430c1a950db3611d35f7e81a6" title="Disables the DLL and DLM registers, going back to the default." alt="" coords="165,56,288,83"/>
+<area shape="rect" id="node5" href="$group__uart.html#ga13deadb71c874e13fdc22fd96491d051" title="Writes to a UART reg (COM1), specified by the reg_offset parameter (use the REG_XXX macros)" alt="" coords="336,56,439,83"/>
+<area shape="rect" id="node6" href="$group__uart.html#gaab09440ff39fc589a8cc8026070f8f93" title="Enables the DLL and DLM registers." alt="" coords="167,5,287,32"/>
+<area shape="rect" id="node7" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="179,157,275,184"/>
+<area shape="rect" id="node8" href="$utils_8c.html#a6a880076cd2ec468834438b6e0c58836" title=" " alt="" coords="177,208,277,235"/>
+<area shape="rect" id="node3" href="$group__uart.html#ga5f82b3d0cedfb88c35c6ef3e7a1411b4" title="Reads a UART reg (COM1), specified by the reg_offset parameter (use the REG_XXX macros)" alt="" coords="337,5,438,32"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="487,5,577,32"/>
+</map>

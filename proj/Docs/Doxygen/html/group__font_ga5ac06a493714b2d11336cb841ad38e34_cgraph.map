@@ -1,0 +1,19 @@
+<map id="draw_time" name="draw_time">
+<area shape="rect" id="node1" title="Draws all the time and dates sprites and saves them to a given array." alt="" coords="5,309,87,336"/>
+<area shape="rect" id="node2" href="$group__sprites.html#ga740994f8c16c38bf18eaabac1f5eeeb9" title="Draws a given Sprite." alt="" coords="163,31,251,57"/>
+<area shape="rect" id="node7" href="$group__rtc.html#ga416f365d4d124e6d741748ffa05cc315" title="Gets the day of the month." alt="" coords="173,81,241,108"/>
+<area shape="rect" id="node8" href="$group__font.html#gab2ee8c5060f6266f5fe18611cc0050a7" title="Gets the dots Sprite at a given position." alt="" coords="171,132,243,159"/>
+<area shape="rect" id="node9" href="$group__rtc.html#gaa92b28863bb293ec6607695b6bb106a0" title="Gets the hour of the day." alt="" coords="171,183,243,209"/>
+<area shape="rect" id="node10" href="$group__rtc.html#ga67c90496f7be9c8b4e2eef46d381c11f" title="Gets the minute." alt="" coords="163,233,250,260"/>
+<area shape="rect" id="node11" href="$group__rtc.html#ga054c477920464c3b46a70ca22ed1a850" title="Gets the month." alt="" coords="165,284,248,311"/>
+<area shape="rect" id="node12" href="$group__font.html#ga60f06a5571d9b2ad2f04e234a8ebb021" title="Parses a number in BCD and returns two sprites representing the 2 digits." alt="" coords="145,335,268,361"/>
+<area shape="rect" id="node13" href="$group__rtc.html#ga8f0a2d1eb9643086c3f45464a649293f" title="Gets the second." alt="" coords="162,385,251,412"/>
+<area shape="rect" id="node14" href="$group__font.html#ga5366a3048f631976e5ffb2dce68c31af" title="Gets the slash Sprite at a given position." alt="" coords="167,436,246,463"/>
+<area shape="rect" id="node15" href="$group__rtc.html#ga3f028be24584d3359f5af21a73c91580" title="Gets the day of the week." alt="" coords="154,487,259,513"/>
+<area shape="rect" id="node16" href="$group__font.html#gaa36582c74b28013897e060b4f4432096" title="Parses a week day (BCD) and returns an array of 3 sprites representing the day (i...." alt="" coords="135,537,279,564"/>
+<area shape="rect" id="node17" href="$group__rtc.html#gadcf8865c765508de14d5659cb6a27131" title="Gets the year." alt="" coords="171,588,243,615"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga57cd22c02ee1e00c4752144b2afeb4a6" title="Gets the type of the xpm." alt="" coords="342,5,414,32"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga6db1212e26dd200901459f26252f1941" title="Draws a pixel with a given color at a given position." alt="" coords="327,56,429,83"/>
+<area shape="rect" id="node5" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="479,31,575,57"/>
+<area shape="rect" id="node6" href="$utils_8c.html#a6a880076cd2ec468834438b6e0c58836" title=" " alt="" coords="477,81,577,108"/>
+</map>

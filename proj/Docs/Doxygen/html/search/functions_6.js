@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['game_5fend_511',['game_end',['../group__game.html#ga32e114bbaf9363e27da61428abab6e6b',1,'game_end():&#160;game.c'],['../group__game.html#ga32e114bbaf9363e27da61428abab6e6b',1,'game_end():&#160;game.c']]],
+  ['game_5finit_512',['game_init',['../group__game.html#ga47d86c55c1bc9d2a93df0b9476c4d630',1,'game_init():&#160;game.c'],['../group__game.html#ga47d86c55c1bc9d2a93df0b9476c4d630',1,'game_init():&#160;game.c']]],
+  ['get_5fday_513',['get_day',['../group__rtc.html#ga416f365d4d124e6d741748ffa05cc315',1,'get_day():&#160;rtc.c'],['../group__rtc.html#ga416f365d4d124e6d741748ffa05cc315',1,'get_day():&#160;rtc.c']]],
+  ['get_5fdots_514',['get_dots',['../group__font.html#gab2ee8c5060f6266f5fe18611cc0050a7',1,'get_dots(int x, int y):&#160;font.c'],['../group__font.html#gab2ee8c5060f6266f5fe18611cc0050a7',1,'get_dots(int x, int y):&#160;font.c']]],
+  ['get_5fgame_5fstate_515',['get_game_state',['../group__game.html#ga0b3b753258fcd30b5eb2710bea0eb8ac',1,'get_game_state():&#160;game.c'],['../group__game.html#ga0b3b753258fcd30b5eb2710bea0eb8ac',1,'get_game_state():&#160;game.c']]],
+  ['get_5fh_5fres_516',['get_h_res',['../group__graphics.html#gac19350f0662b5c8fbb1a41e051411014',1,'get_h_res():&#160;graphics.c'],['../group__graphics.html#gac19350f0662b5c8fbb1a41e051411014',1,'get_h_res():&#160;graphics.c']]],
+  ['get_5fhour_517',['get_hour',['../group__rtc.html#gaa92b28863bb293ec6607695b6bb106a0',1,'get_hour():&#160;rtc.c'],['../group__rtc.html#gaa92b28863bb293ec6607695b6bb106a0',1,'get_hour():&#160;rtc.c']]],
+  ['get_5fminute_518',['get_minute',['../group__rtc.html#ga67c90496f7be9c8b4e2eef46d381c11f',1,'get_minute():&#160;rtc.c'],['../group__rtc.html#ga67c90496f7be9c8b4e2eef46d381c11f',1,'get_minute():&#160;rtc.c']]],
+  ['get_5fmonth_519',['get_month',['../group__rtc.html#ga054c477920464c3b46a70ca22ed1a850',1,'get_month():&#160;rtc.c'],['../group__rtc.html#ga054c477920464c3b46a70ca22ed1a850',1,'get_month():&#160;rtc.c']]],
+  ['get_5fpair_5fof_5fdigits_520',['get_pair_of_digits',['../group__font.html#ga60f06a5571d9b2ad2f04e234a8ebb021',1,'get_pair_of_digits(uint8_t num, int x, int y, Sprite *first, Sprite *second):&#160;font.c'],['../group__font.html#ga60f06a5571d9b2ad2f04e234a8ebb021',1,'get_pair_of_digits(uint8_t num, int x, int y, Sprite *first, Sprite *second):&#160;font.c']]],
+  ['get_5frgb_521',['get_rgb',['../group__graphics.html#ga3183aab63107c284d4f81f40514d9de9',1,'get_rgb(uint32_t color, uint32_t *red, uint32_t *green, uint32_t *blue):&#160;graphics.c'],['../group__graphics.html#ga3183aab63107c284d4f81f40514d9de9',1,'get_rgb(uint32_t color, uint32_t *red, uint32_t *green, uint32_t *blue):&#160;graphics.c']]],
+  ['get_5fsecond_522',['get_second',['../group__rtc.html#ga8f0a2d1eb9643086c3f45464a649293f',1,'get_second():&#160;rtc.c'],['../group__rtc.html#ga8f0a2d1eb9643086c3f45464a649293f',1,'get_second():&#160;rtc.c']]],
+  ['get_5fslash_523',['get_slash',['../group__font.html#ga5366a3048f631976e5ffb2dce68c31af',1,'get_slash(int x, int y):&#160;font.c'],['../group__font.html#ga5366a3048f631976e5ffb2dce68c31af',1,'get_slash(int x, int y):&#160;font.c']]],
+  ['get_5ftype_524',['get_type',['../group__graphics.html#ga57cd22c02ee1e00c4752144b2afeb4a6',1,'get_type():&#160;graphics.c'],['../group__graphics.html#ga57cd22c02ee1e00c4752144b2afeb4a6',1,'get_type():&#160;graphics.c']]],
+  ['get_5fv_5fres_525',['get_v_res',['../group__graphics.html#gab226d056720011120b05e68e5f4d4449',1,'get_v_res():&#160;graphics.c'],['../group__graphics.html#gab226d056720011120b05e68e5f4d4449',1,'get_v_res():&#160;graphics.c']]],
+  ['get_5fweek_5fday_526',['get_week_day',['../group__rtc.html#ga3f028be24584d3359f5af21a73c91580',1,'get_week_day():&#160;rtc.c'],['../group__rtc.html#ga3f028be24584d3359f5af21a73c91580',1,'get_week_day():&#160;rtc.c']]],
+  ['get_5fweek_5fday_5fsprite_527',['get_week_day_sprite',['../group__font.html#gaa36582c74b28013897e060b4f4432096',1,'get_week_day_sprite(uint8_t day, int x, int y, Sprite *week_day[]):&#160;font.c'],['../group__font.html#gaa36582c74b28013897e060b4f4432096',1,'get_week_day_sprite(uint8_t day, int x, int y, Sprite *week_day[]):&#160;font.c']]],
+  ['get_5fyear_528',['get_year',['../group__rtc.html#gadcf8865c765508de14d5659cb6a27131',1,'get_year():&#160;rtc.c'],['../group__rtc.html#gadcf8865c765508de14d5659cb6a27131',1,'get_year():&#160;rtc.c']]]
+];

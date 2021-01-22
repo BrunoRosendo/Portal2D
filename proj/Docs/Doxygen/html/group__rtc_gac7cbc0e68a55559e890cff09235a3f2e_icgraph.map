@@ -1,0 +1,11 @@
+<map id="rtc_read_reg" name="rtc_read_reg">
+<area shape="rect" id="node1" title="Reads a given RTC register." alt="" coords="664,81,759,108"/>
+<area shape="rect" id="node2" href="$group__rtc.html#gac998c92881eec6b3a03f5e14fbc8e02c" title="Disables interruptions for time updates." alt="" coords="447,5,616,32"/>
+<area shape="rect" id="node5" href="$group__rtc.html#gae2045200b6e81dd57c04e2544d0bca3f" title="Enables interruptions for time updates." alt="" coords="448,56,615,83"/>
+<area shape="rect" id="node7" href="$group__rtc.html#ga0b2f91cff37f2c0b95d4124464a96848" title="Reads the time and date and updates the variables." alt="" coords="492,107,571,133"/>
+<area shape="rect" id="node8" href="$group__rtc.html#gaa5ade5d5eea21026844fa4ce7225e5b2" title="Handles an interrupt and updates the variables accordingly." alt="" coords="292,107,399,133"/>
+<area shape="rect" id="node3" href="$group__loop.html#gaddc4b52fdc6479b0fef3869eefbe4b1e" title="Ends the game and exits the program. Unsubscribes interrupts." alt="" coords="166,5,241,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,115,83"/>
+<area shape="rect" id="node6" href="$group__loop.html#ga1d0a9e8eacacd66eda0603427f6f050c" title="Starts the game. Subscribes all the interrupts." alt="" coords="306,56,385,83"/>
+<area shape="rect" id="node9" href="$group__loop.html#ga859307c43da5908cb529781d87068c29" title="Main loop of the game. Handles all the interruptions." alt="" coords="163,107,244,133"/>
+</map>

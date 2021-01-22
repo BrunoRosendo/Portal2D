@@ -1,0 +1,6 @@
+<map id="uart_config" name="uart_config">
+<area shape="rect" id="node1" title="Configures the uart." alt="" coords="405,5,491,32"/>
+<area shape="rect" id="node2" href="$group__uart.html#ga42816e21b3c4692061232463084a7b6b" title="Starts the uart by subscribing its interrupts and configuring it for the project." alt="" coords="289,5,357,32"/>
+<area shape="rect" id="node3" href="$group__loop.html#ga1d0a9e8eacacd66eda0603427f6f050c" title="Starts the game. Subscribes all the interrupts." alt="" coords="163,5,241,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

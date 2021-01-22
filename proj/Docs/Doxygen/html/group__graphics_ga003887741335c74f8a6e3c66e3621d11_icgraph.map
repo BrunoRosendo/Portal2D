@@ -1,0 +1,19 @@
+<map id="erase_everything" name="erase_everything">
+<area shape="rect" id="node1" title="Paints all the pixels black." alt="" coords="1455,93,1573,120"/>
+<area shape="rect" id="node2" href="$group__game.html#ga96f1b31dfabf979c2ebf3129e9f7aa6e" title="Destroys all the sprites and frees the memory." alt="" coords="1276,93,1407,120"/>
+<area shape="rect" id="node3" href="$group__game.html#ga8fe6fe827e29e6b0cb98cda00dc38355" title="Draws a new frame and erases the old one." alt="" coords="665,43,784,69"/>
+<area shape="rect" id="node16" href="$group__menu.html#gac5f3c142a60479b25f04b87ee7299a3d" title="Erases the menu&#39;s sprites." alt="" coords="1295,195,1388,221"/>
+<area shape="rect" id="node6" href="$group__game.html#ga14d8fcf1bebb8e38a43aaa450e6c2592" title="Closes the level editor and writes the level to a text file." alt="" coords="1145,144,1228,171"/>
+<area shape="rect" id="node7" href="$group__game.html#ga32e114bbaf9363e27da61428abab6e6b" title="Ends a stage of the game (menu, single/coop, editor)" alt="" coords="1015,195,1097,221"/>
+<area shape="rect" id="node4" href="$group__loop.html#ga859307c43da5908cb529781d87068c29" title="Main loop of the game. Handles all the interruptions." alt="" coords="163,169,244,196"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,169,115,196"/>
+<area shape="rect" id="node8" href="$group__loop.html#gaddc4b52fdc6479b0fef3869eefbe4b1e" title="Ends the game and exits the program. Unsubscribes interrupts." alt="" coords="328,296,403,323"/>
+<area shape="rect" id="node9" href="$group__game.html#ga4aeca837a06b6b295f45548c8cd73916" title="Handles a key event." alt="" coords="487,93,617,120"/>
+<area shape="rect" id="node10" href="$group__game.html#ga4119d9aa4e3a6a8e6e25b367c0a92621" title="Checks if the user clicked in a button and changes the game state if he did." alt="" coords="501,195,603,221"/>
+<area shape="rect" id="node12" href="$group__game.html#gad07d1f8414c2864cae1e9bb8eb6660c3" title="Reads the next level from its respective file." alt="" coords="832,144,967,171"/>
+<area shape="rect" id="node15" href="$group__game.html#gaae1249bceab30abf75fe16cb1349f762" title="Handles an event caused by receiving a message from the serial port." alt="" coords="487,245,617,272"/>
+<area shape="rect" id="node11" href="$group__game.html#ga799bfa7634b03cae400ad3105ea012bb" title="Handles a mouse event and updates the cursor accordingly." alt="" coords="292,195,439,221"/>
+<area shape="rect" id="node13" href="$group__game.html#ga47d86c55c1bc9d2a93df0b9476c4d630" title="Starts a stage of the game (menu, single/coop, editor)" alt="" coords="685,144,764,171"/>
+<area shape="rect" id="node14" href="$group__loop.html#ga1d0a9e8eacacd66eda0603427f6f050c" title="Starts the game. Subscribes all the interrupts." alt="" coords="164,81,243,108"/>
+<area shape="rect" id="node17" href="$group__menu.html#ga2eb36585daa958eb64c7f31bf98fd970" title="Exits the menu and destroys all its sprites." alt="" coords="1145,245,1228,272"/>
+</map>

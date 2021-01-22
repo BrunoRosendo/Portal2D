@@ -1,0 +1,8 @@
+<map id="flip_sprite" name="flip_sprite">
+<area shape="rect" id="node1" title="Flips a sprite by changing its map to map_reversed." alt="" coords="631,31,708,57"/>
+<area shape="rect" id="node2" href="$group__game.html#ga1cbee38392c1f5de8ff5dac81f5c9d64" title="state machine based on key events, which manages the characters" alt="" coords="471,31,583,57"/>
+<area shape="rect" id="node3" href="$group__game.html#ga4aeca837a06b6b295f45548c8cd73916" title="Handles a key event." alt="" coords="293,5,422,32"/>
+<area shape="rect" id="node6" href="$group__game.html#gaae1249bceab30abf75fe16cb1349f762" title="Handles an event caused by receiving a message from the serial port." alt="" coords="292,56,423,83"/>
+<area shape="rect" id="node4" href="$group__loop.html#ga859307c43da5908cb529781d87068c29" title="Main loop of the game. Handles all the interruptions." alt="" coords="163,31,244,57"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,115,57"/>
+</map>

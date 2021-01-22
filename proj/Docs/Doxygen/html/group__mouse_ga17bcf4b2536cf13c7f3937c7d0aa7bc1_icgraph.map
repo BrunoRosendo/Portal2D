@@ -1,0 +1,6 @@
+<map id="mouse_disable_data_reporting" name="mouse_disable_data_reporting">
+<area shape="rect" id="node1" title="Disables data reporting." alt="" coords="375,23,516,65"/>
+<area shape="rect" id="node2" href="$group__loop.html#gaddc4b52fdc6479b0fef3869eefbe4b1e" title="Ends the game and exits the program. Unsubscribes interrupts." alt="" coords="207,5,282,32"/>
+<area shape="rect" id="node4" href="$group__mouse.html#gaa044a0679491bb27c1b0d22caaf54ba6" title="Restores the KBC and mouse to the Minix&#39;s default." alt="" coords="163,56,327,83"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

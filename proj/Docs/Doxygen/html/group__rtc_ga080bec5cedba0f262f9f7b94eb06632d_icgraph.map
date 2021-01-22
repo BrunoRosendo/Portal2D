@@ -1,0 +1,8 @@
+<map id="rtc_write_reg" name="rtc_write_reg">
+<area shape="rect" id="node1" title="Writes a command to a given RTC register." alt="" coords="507,31,603,57"/>
+<area shape="rect" id="node2" href="$group__rtc.html#gac998c92881eec6b3a03f5e14fbc8e02c" title="Disables interruptions for time updates." alt="" coords="289,5,459,32"/>
+<area shape="rect" id="node5" href="$group__rtc.html#gae2045200b6e81dd57c04e2544d0bca3f" title="Enables interruptions for time updates." alt="" coords="291,56,457,83"/>
+<area shape="rect" id="node3" href="$group__loop.html#gaddc4b52fdc6479b0fef3869eefbe4b1e" title="Ends the game and exits the program. Unsubscribes interrupts." alt="" coords="165,5,239,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,115,57"/>
+<area shape="rect" id="node6" href="$group__loop.html#ga1d0a9e8eacacd66eda0603427f6f050c" title="Starts the game. Subscribes all the interrupts." alt="" coords="163,56,241,83"/>
+</map>

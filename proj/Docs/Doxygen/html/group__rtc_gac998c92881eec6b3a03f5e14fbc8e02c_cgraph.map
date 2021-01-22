@@ -1,0 +1,6 @@
+<map id="disable_int_time_updates" name="disable_int_time_updates">
+<area shape="rect" id="node1" title="Disables interruptions for time updates." alt="" coords="5,31,175,57"/>
+<area shape="rect" id="node2" href="$group__rtc.html#gac7cbc0e68a55559e890cff09235a3f2e" title="Reads a given RTC register." alt="" coords="223,5,318,32"/>
+<area shape="rect" id="node4" href="$group__rtc.html#ga080bec5cedba0f262f9f7b94eb06632d" title="Writes a command to a given RTC register." alt="" coords="223,56,319,83"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="367,5,457,32"/>
+</map>

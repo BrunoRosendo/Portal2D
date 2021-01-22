@@ -1,0 +1,5 @@
+<map id="kbc_write_cmd" name="kbc_write_cmd">
+<area shape="rect" id="node1" title="Writes a command to the kbc driver." alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node2" href="$group__kbc.html#ga2c9751f3d78870779ad3cbcf7256aab5" title="Checks if we can write to the Input Buffer." alt="" coords="163,5,289,32"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="337,5,428,32"/>
+</map>

@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['main_540',['main',['../proj_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'proj.c']]],
+  ['main_5floop_541',['main_loop',['../group__loop.html#ga859307c43da5908cb529781d87068c29',1,'main_loop():&#160;loop.c'],['../group__loop.html#ga859307c43da5908cb529781d87068c29',1,'main_loop():&#160;loop.c']]],
+  ['menu_5fchange_542',['menu_change',['../group__game.html#ga4119d9aa4e3a6a8e6e25b367c0a92621',1,'menu_change():&#160;game.c'],['../group__game.html#ga4119d9aa4e3a6a8e6e25b367c0a92621',1,'menu_change():&#160;game.c']]],
+  ['mouse_5fdisable_5fdata_5freporting_543',['mouse_disable_data_reporting',['../group__mouse.html#ga17bcf4b2536cf13c7f3937c7d0aa7bc1',1,'mouse_disable_data_reporting():&#160;mouse.c'],['../group__mouse.html#ga17bcf4b2536cf13c7f3937c7d0aa7bc1',1,'mouse_disable_data_reporting():&#160;mouse.c']]],
+  ['mouse_5fenable_5fdata_5freporting2_544',['mouse_enable_data_reporting2',['../group__mouse.html#ga705c934f604e0f6364c2526ddb650451',1,'mouse_enable_data_reporting2():&#160;mouse.c'],['../group__mouse.html#ga705c934f604e0f6364c2526ddb650451',1,'mouse_enable_data_reporting2():&#160;mouse.c']]],
+  ['mouse_5fevent_5fhandler_545',['mouse_event_handler',['../group__game.html#ga799bfa7634b03cae400ad3105ea012bb',1,'mouse_event_handler(mouse_event event, int16_t x_mov, int16_t y_mov):&#160;game.c'],['../group__game.html#ga799bfa7634b03cae400ad3105ea012bb',1,'mouse_event_handler(mouse_event event, int16_t x_mov, int16_t y_mov):&#160;game.c']]],
+  ['mouse_5fint_5fhandler_546',['mouse_int_handler',['../group__mouse.html#gaa0e4890fc053fcf379c5487c10c4dcaa',1,'mouse_int_handler(mouse_event *event, int16_t *x_mov, int16_t *y_mov):&#160;mouse.c'],['../group__mouse.html#gaa0e4890fc053fcf379c5487c10c4dcaa',1,'mouse_int_handler(mouse_event *event, int16_t *x_mov, int16_t *y_mov):&#160;mouse.c']]],
+  ['mouse_5fsubscribe_5fint_547',['mouse_subscribe_int',['../group__mouse.html#ga67175c9bf81d5424c7be47316bfa99d4',1,'mouse_subscribe_int(uint8_t *bit_no, int *hook_id):&#160;mouse.c'],['../group__mouse.html#ga67175c9bf81d5424c7be47316bfa99d4',1,'mouse_subscribe_int(uint8_t *bit_no, int *hook_id):&#160;mouse.c']]],
+  ['mouse_5funsubscribe_5fint_548',['mouse_unsubscribe_int',['../group__mouse.html#gac54b8c565fd98eb4cec97a0879b7a5ca',1,'mouse_unsubscribe_int(int *hook_id):&#160;mouse.c'],['../group__mouse.html#gac54b8c565fd98eb4cec97a0879b7a5ca',1,'mouse_unsubscribe_int(int *hook_id):&#160;mouse.c']]]
+];

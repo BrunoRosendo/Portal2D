@@ -1,0 +1,4 @@
+<map id="uart_read_reg" name="uart_read_reg">
+<area shape="rect" id="node1" title="Reads a UART reg (COM1), specified by the reg_offset parameter (use the REG_XXX macros)" alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node2" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="155,5,245,32"/>
+</map>

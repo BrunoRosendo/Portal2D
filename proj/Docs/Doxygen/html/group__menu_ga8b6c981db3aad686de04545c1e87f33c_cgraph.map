@@ -1,0 +1,9 @@
+<map id="draw_menu" name="draw_menu">
+<area shape="rect" id="node1" title="Draws the menu." alt="" coords="5,56,93,83"/>
+<area shape="rect" id="node2" href="$group__sprites.html#ga740994f8c16c38bf18eaabac1f5eeeb9" title="Draws a given Sprite." alt="" coords="141,31,229,57"/>
+<area shape="rect" id="node7" href="$group__graphics.html#ga744561a7456fbbec0aaff5edc7fac6f4" title="Changes the state of the main_buffer variable to !main_buffer." alt="" coords="149,81,222,108"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga57cd22c02ee1e00c4752144b2afeb4a6" title="Gets the type of the xpm." alt="" coords="293,5,365,32"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga6db1212e26dd200901459f26252f1941" title="Draws a pixel with a given color at a given position." alt="" coords="277,56,380,83"/>
+<area shape="rect" id="node5" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="430,31,526,57"/>
+<area shape="rect" id="node6" href="$utils_8c.html#a6a880076cd2ec468834438b6e0c58836" title=" " alt="" coords="428,81,528,108"/>
+</map>

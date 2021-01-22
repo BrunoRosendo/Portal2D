@@ -1,0 +1,7 @@
+<map id="check_buttons" name="check_buttons">
+<area shape="rect" id="node1" title="Gets the button in which the user has the mouse on (0 if none)" alt="" coords="637,5,744,32"/>
+<area shape="rect" id="node2" href="$group__game.html#ga4119d9aa4e3a6a8e6e25b367c0a92621" title="Checks if the user clicked in a button and changes the game state if he did." alt="" coords="487,5,589,32"/>
+<area shape="rect" id="node3" href="$group__game.html#ga799bfa7634b03cae400ad3105ea012bb" title="Handles a mouse event and updates the cursor accordingly." alt="" coords="292,5,439,32"/>
+<area shape="rect" id="node4" href="$group__loop.html#ga859307c43da5908cb529781d87068c29" title="Main loop of the game. Handles all the interruptions." alt="" coords="163,5,244,32"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

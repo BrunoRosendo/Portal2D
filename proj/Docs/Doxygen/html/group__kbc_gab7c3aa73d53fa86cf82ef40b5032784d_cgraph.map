@@ -1,0 +1,5 @@
+<map id="kbc_write_arg" name="kbc_write_arg">
+<area shape="rect" id="node1" title="Writes an argument to the KBC_ARG Register." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node2" href="$group__kbc.html#ga2c9751f3d78870779ad3cbcf7256aab5" title="Checks if we can write to the Input Buffer." alt="" coords="156,5,283,32"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="331,5,421,32"/>
+</map>

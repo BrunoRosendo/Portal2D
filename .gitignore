@@ -1,0 +1,10 @@
+lab0/hello
+lab0/test
+lab2/*.o
+lab2/*.d
+lab2/*.clang-format
+lab2/*.depend
+lab2/*.gdbinit
+lab2/lab2.minix-src
+proj/output.txt
+proj/trace.txt

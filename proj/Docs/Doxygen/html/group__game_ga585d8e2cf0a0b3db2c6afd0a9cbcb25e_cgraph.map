@@ -1,0 +1,10 @@
+<map id="draw_level" name="draw_level">
+<area shape="rect" id="node1" title="Draws the level of the game and loads it to the background buffer." alt="" coords="5,81,87,108"/>
+<area shape="rect" id="node2" href="$group__sprites.html#ga740994f8c16c38bf18eaabac1f5eeeb9" title="Draws a given Sprite." alt="" coords="151,31,239,57"/>
+<area shape="rect" id="node7" href="$group__graphics.html#ga744561a7456fbbec0aaff5edc7fac6f4" title="Changes the state of the main_buffer variable to !main_buffer." alt="" coords="158,81,231,108"/>
+<area shape="rect" id="node8" href="$group__graphics.html#ga6aed5c8222cc428a420e31592d450e87" title="Copies the content in the video buffer to the background buffer." alt="" coords="135,132,255,159"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga57cd22c02ee1e00c4752144b2afeb4a6" title="Gets the type of the xpm." alt="" coords="318,5,390,32"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga6db1212e26dd200901459f26252f1941" title="Draws a pixel with a given color at a given position." alt="" coords="303,56,405,83"/>
+<area shape="rect" id="node5" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="455,31,551,57"/>
+<area shape="rect" id="node6" href="$utils_8c.html#a6a880076cd2ec468834438b6e0c58836" title=" " alt="" coords="453,81,553,108"/>
+</map>

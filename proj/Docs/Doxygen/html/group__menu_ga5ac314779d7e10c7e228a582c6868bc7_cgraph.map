@@ -1,0 +1,5 @@
+<map id="start_menu" name="start_menu">
+<area shape="rect" id="node1" title="Creates all the menu&#39;s sprites." alt="" coords="5,5,92,32"/>
+<area shape="rect" id="node2" href="$group__sprites.html#gaffac42b8b55dacd08b584a6d2d2214cb" title="Creates a new struct Sprite." alt="" coords="140,5,237,32"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga57cd22c02ee1e00c4752144b2afeb4a6" title="Gets the type of the xpm." alt="" coords="285,5,357,32"/>
+</map>

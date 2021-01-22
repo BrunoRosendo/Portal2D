@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['kbc_5fable_5fto_5fread_530',['kbc_able_to_read',['../group__kbc.html#gad4f32d9fedea9a943870a7054baf77da',1,'kbc_able_to_read():&#160;kbc.c'],['../group__kbc.html#gad4f32d9fedea9a943870a7054baf77da',1,'kbc_able_to_read():&#160;kbc.c']]],
+  ['kbc_5fable_5fto_5fwrite_531',['kbc_able_to_write',['../group__kbc.html#ga2c9751f3d78870779ad3cbcf7256aab5',1,'kbc_able_to_write():&#160;kbc.c'],['../group__kbc.html#ga2c9751f3d78870779ad3cbcf7256aab5',1,'kbc_able_to_write():&#160;kbc.c']]],
+  ['kbc_5fint_5fhandler_532',['kbc_int_handler',['../group__kbc.html#gaf5c1534b686847bbdf38fa6c830871d4',1,'kbc_int_handler(uint8_t *byte):&#160;kbc.c'],['../group__kbc.html#gaf5c1534b686847bbdf38fa6c830871d4',1,'kbc_int_handler(uint8_t *byte):&#160;kbc.c']]],
+  ['kbc_5fsubscribe_5fint_533',['kbc_subscribe_int',['../group__kbc.html#gae26ae8c4ca93e51c69a67fb2edf95801',1,'kbc_subscribe_int(uint8_t *bit_no, int *hook_id):&#160;kbc.c'],['../group__kbc.html#gae26ae8c4ca93e51c69a67fb2edf95801',1,'kbc_subscribe_int(uint8_t *bit_no, int *hook_id):&#160;kbc.c']]],
+  ['kbc_5funsubscribe_5fint_534',['kbc_unsubscribe_int',['../group__kbc.html#gaa5d2c15bd797aa9fca6df3660873c9f6',1,'kbc_unsubscribe_int(int *hook_id):&#160;kbc.c'],['../group__kbc.html#gaa5d2c15bd797aa9fca6df3660873c9f6',1,'kbc_unsubscribe_int(int *hook_id):&#160;kbc.c']]],
+  ['kbc_5fwrite_5farg_535',['kbc_write_arg',['../group__kbc.html#gab7c3aa73d53fa86cf82ef40b5032784d',1,'kbc_write_arg(uint8_t arg):&#160;kbc.c'],['../group__kbc.html#gab7c3aa73d53fa86cf82ef40b5032784d',1,'kbc_write_arg(uint8_t arg):&#160;kbc.c']]],
+  ['kbc_5fwrite_5fcmd_536',['kbc_write_cmd',['../group__kbc.html#gaa1dcd642657d7da0376e36cda809b0e3',1,'kbc_write_cmd(uint8_t cmd):&#160;kbc.c'],['../group__kbc.html#gaa1dcd642657d7da0376e36cda809b0e3',1,'kbc_write_cmd(uint8_t cmd):&#160;kbc.c']]],
+  ['key_5fchar_5fevent_537',['key_char_event',['../group__game.html#ga1cbee38392c1f5de8ff5dac81f5c9d64',1,'key_char_event(uint8_t *data, Sprite *character, char *char_state):&#160;game.c'],['../group__game.html#ga1cbee38392c1f5de8ff5dac81f5c9d64',1,'key_char_event(uint8_t *data, Sprite *character, char *char_state):&#160;game.c']]],
+  ['key_5fevent_5fhandler_538',['key_event_handler',['../group__game.html#ga4aeca837a06b6b295f45548c8cd73916',1,'key_event_handler(uint8_t *data):&#160;game.c'],['../group__game.html#ga4aeca837a06b6b295f45548c8cd73916',1,'key_event_handler(uint8_t *data):&#160;game.c']]]
+];

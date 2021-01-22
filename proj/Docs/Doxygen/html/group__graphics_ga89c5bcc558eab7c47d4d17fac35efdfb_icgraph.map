@@ -1,0 +1,5 @@
+<map id="vg_exit_program" name="vg_exit_program">
+<area shape="rect" id="node1" title="Calls vg_exit() and frees the buffers." alt="" coords="285,5,401,32"/>
+<area shape="rect" id="node2" href="$group__loop.html#gaddc4b52fdc6479b0fef3869eefbe4b1e" title="Ends the game and exits the program. Unsubscribes interrupts." alt="" coords="163,5,237,32"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

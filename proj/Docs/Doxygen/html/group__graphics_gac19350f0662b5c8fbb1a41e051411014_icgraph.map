@@ -1,0 +1,8 @@
+<map id="get_h_res" name="get_h_res">
+<area shape="rect" id="node1" title="Gets the horizontal resolution of the game." alt="" coords="628,31,707,57"/>
+<area shape="rect" id="node2" href="$group__game.html#ga799bfa7634b03cae400ad3105ea012bb" title="Handles a mouse event and updates the cursor accordingly." alt="" coords="292,5,439,32"/>
+<area shape="rect" id="node5" href="$group__game.html#ga01358cbd05fc30197cb1ae4a4e753bcd" title="Shoots a portal and calculates where it will land based on the position of the player and a given pos..." alt="" coords="487,56,580,83"/>
+<area shape="rect" id="node3" href="$group__loop.html#ga859307c43da5908cb529781d87068c29" title="Main loop of the game. Handles all the interruptions." alt="" coords="163,31,244,57"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,115,57"/>
+<area shape="rect" id="node6" href="$group__game.html#gaae1249bceab30abf75fe16cb1349f762" title="Handles an event caused by receiving a message from the serial port." alt="" coords="300,56,431,83"/>
+</map>

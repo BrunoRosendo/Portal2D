@@ -1,0 +1,8 @@
+<map id="find_block" name="find_block">
+<area shape="rect" id="node1" title="Checks if there&#39;s a block at a given positions and returns it." alt="" coords="676,31,756,57"/>
+<area shape="rect" id="node2" href="$group__game.html#gaa17e1f62174a4e2bec7c5b0724815feb" title="Draws an element of the level." alt="" coords="487,31,628,57"/>
+<area shape="rect" id="node3" href="$group__game.html#ga4aeca837a06b6b295f45548c8cd73916" title="Handles a key event." alt="" coords="301,5,430,32"/>
+<area shape="rect" id="node6" href="$group__game.html#ga799bfa7634b03cae400ad3105ea012bb" title="Handles a mouse event and updates the cursor accordingly." alt="" coords="292,56,439,83"/>
+<area shape="rect" id="node4" href="$group__loop.html#ga859307c43da5908cb529781d87068c29" title="Main loop of the game. Handles all the interruptions." alt="" coords="163,31,244,57"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,115,57"/>
+</map>

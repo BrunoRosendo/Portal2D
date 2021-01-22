@@ -1,0 +1,4 @@
+<map id="uart_disable_interrupts" name="uart_disable_interrupts">
+<area shape="rect" id="node1" title="Disables all the interrupts." alt="" coords="5,5,159,32"/>
+<area shape="rect" id="node2" href="$group__uart.html#ga13deadb71c874e13fdc22fd96491d051" title="Writes to a UART reg (COM1), specified by the reg_offset parameter (use the REG_XXX macros)" alt="" coords="207,5,309,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rtc_int_handler" name="rtc_int_handler">
+<area shape="rect" id="node1" title="Handles an interrupt and updates the variables accordingly." alt="" coords="5,31,112,57"/>
+<area shape="rect" id="node2" href="$group__rtc.html#ga0b2f91cff37f2c0b95d4124464a96848" title="Reads the time and date and updates the variables." alt="" coords="160,5,239,32"/>
+<area shape="rect" id="node3" href="$group__rtc.html#gac7cbc0e68a55559e890cff09235a3f2e" title="Reads a given RTC register." alt="" coords="287,31,381,57"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="429,31,520,57"/>
+</map>

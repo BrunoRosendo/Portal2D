@@ -1,0 +1,6 @@
+<map id="vg_draw_from_background" name="vg_draw_from_background">
+<area shape="rect" id="node1" title="Draws a pixel from the background buffer." alt="" coords="5,31,180,57"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga6db1212e26dd200901459f26252f1941" title="Draws a pixel with a given color at a given position." alt="" coords="228,31,331,57"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="381,5,477,32"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a6a880076cd2ec468834438b6e0c58836" title=" " alt="" coords="379,56,479,83"/>
+</map>

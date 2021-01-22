@@ -1,0 +1,4 @@
+<map id="create_sprite" name="create_sprite">
+<area shape="rect" id="node1" title="Creates a new struct Sprite." alt="" coords="5,5,103,32"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga57cd22c02ee1e00c4752144b2afeb4a6" title="Gets the type of the xpm." alt="" coords="151,5,223,32"/>
+</map>

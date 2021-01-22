@@ -1,0 +1,12 @@
+<map id="editor_init" name="editor_init">
+<area shape="rect" id="node1" title="Initiates the level editor." alt="" coords="5,81,84,108"/>
+<area shape="rect" id="node2" href="$group__sprites.html#gaffac42b8b55dacd08b584a6d2d2214cb" title="Creates a new struct Sprite." alt="" coords="132,5,229,32"/>
+<area shape="rect" id="node4" href="$group__game.html#ga585d8e2cf0a0b3db2c6afd0a9cbcb25e" title="Draws the level of the game and loads it to the background buffer." alt="" coords="140,107,221,133"/>
+<area shape="rect" id="node5" href="$group__sprites.html#ga740994f8c16c38bf18eaabac1f5eeeb9" title="Draws a given Sprite." alt="" coords="293,56,381,83"/>
+<area shape="rect" id="node9" href="$group__graphics.html#ga744561a7456fbbec0aaff5edc7fac6f4" title="Changes the state of the main_buffer variable to !main_buffer." alt="" coords="301,157,374,184"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga57cd22c02ee1e00c4752144b2afeb4a6" title="Gets the type of the xpm." alt="" coords="461,5,533,32"/>
+<area shape="rect" id="node10" href="$group__graphics.html#ga6aed5c8222cc428a420e31592d450e87" title="Copies the content in the video buffer to the background buffer." alt="" coords="277,107,397,133"/>
+<area shape="rect" id="node6" href="$group__graphics.html#ga6db1212e26dd200901459f26252f1941" title="Draws a pixel with a given color at a given position." alt="" coords="445,56,548,83"/>
+<area shape="rect" id="node7" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="598,31,694,57"/>
+<area shape="rect" id="node8" href="$utils_8c.html#a6a880076cd2ec468834438b6e0c58836" title=" " alt="" coords="596,81,696,108"/>
+</map>

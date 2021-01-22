@@ -1,0 +1,6 @@
+<map id="uart_write_char" name="uart_write_char">
+<area shape="rect" id="node1" title="Writes a character to the Transmitter Holding Register." alt="" coords="5,31,116,57"/>
+<area shape="rect" id="node2" href="$group__uart.html#ga5f82b3d0cedfb88c35c6ef3e7a1411b4" title="Reads a UART reg (COM1), specified by the reg_offset parameter (use the REG_XXX macros)" alt="" coords="165,5,266,32"/>
+<area shape="rect" id="node4" href="$group__uart.html#ga13deadb71c874e13fdc22fd96491d051" title="Writes to a UART reg (COM1), specified by the reg_offset parameter (use the REG_XXX macros)" alt="" coords="164,56,267,83"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="315,5,405,32"/>
+</map>

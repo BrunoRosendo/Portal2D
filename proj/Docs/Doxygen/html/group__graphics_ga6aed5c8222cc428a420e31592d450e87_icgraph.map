@@ -1,0 +1,15 @@
+<map id="load_background" name="load_background">
+<area shape="rect" id="node1" title="Copies the content in the video buffer to the background buffer." alt="" coords="1052,157,1172,184"/>
+<area shape="rect" id="node2" href="$group__game.html#ga585d8e2cf0a0b3db2c6afd0a9cbcb25e" title="Draws the level of the game and loads it to the background buffer." alt="" coords="923,157,1004,184"/>
+<area shape="rect" id="node4" href="$group__game.html#ga47d86c55c1bc9d2a93df0b9476c4d630" title="Starts a stage of the game (menu, single/coop, editor)" alt="" coords="669,107,748,133"/>
+<area shape="rect" id="node11" href="$group__game.html#ga8fe6fe827e29e6b0cb98cda00dc38355" title="Draws a new frame and erases the old one." alt="" coords="306,183,425,209"/>
+<area shape="rect" id="node3" href="$group__game.html#ga8dac101a0c4f4b4db55bc6027eeb61ff" title="Initiates the level editor." alt="" coords="796,132,875,159"/>
+<area shape="rect" id="node10" href="$group__game.html#gad07d1f8414c2864cae1e9bb8eb6660c3" title="Reads the next level from its respective file." alt="" coords="487,183,621,209"/>
+<area shape="rect" id="node5" href="$group__game.html#ga4aeca837a06b6b295f45548c8cd73916" title="Handles a key event." alt="" coords="301,81,430,108"/>
+<area shape="rect" id="node8" href="$group__game.html#ga4119d9aa4e3a6a8e6e25b367c0a92621" title="Checks if the user clicked in a button and changes the game state if he did." alt="" coords="503,132,605,159"/>
+<area shape="rect" id="node12" href="$group__loop.html#ga1d0a9e8eacacd66eda0603427f6f050c" title="Starts the game. Subscribes all the interrupts." alt="" coords="164,5,243,32"/>
+<area shape="rect" id="node13" href="$group__game.html#gaae1249bceab30abf75fe16cb1349f762" title="Handles an event caused by receiving a message from the serial port." alt="" coords="300,31,431,57"/>
+<area shape="rect" id="node6" href="$group__loop.html#ga859307c43da5908cb529781d87068c29" title="Main loop of the game. Handles all the interruptions." alt="" coords="163,81,244,108"/>
+<area shape="rect" id="node7" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,115,83"/>
+<area shape="rect" id="node9" href="$group__game.html#ga799bfa7634b03cae400ad3105ea012bb" title="Handles a mouse event and updates the cursor accordingly." alt="" coords="292,132,439,159"/>
+</map>

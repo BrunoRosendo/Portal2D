@@ -1,0 +1,7 @@
+<map id="vg_draw_rectangle" name="vg_draw_rectangle">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,133,57"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a5e5b25bd525250f61f40b9e9f212d5e6" title=" " alt="" coords="181,31,284,57"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga6db1212e26dd200901459f26252f1941" title="Draws a pixel with a given color at a given position." alt="" coords="332,31,435,57"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="485,5,581,32"/>
+<area shape="rect" id="node5" href="$utils_8c.html#a6a880076cd2ec468834438b6e0c58836" title=" " alt="" coords="483,56,583,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="shoot_portal" name="shoot_portal">
+<area shape="rect" id="node1" title="Shoots a portal and calculates where it will land based on the position of the player and a given pos..." alt="" coords="5,132,99,159"/>
+<area shape="rect" id="node2" href="$group__asprite.html#gadc1c5af2108c06235536597a37a54f70" title="Creates a portal asprite with given type, x and y." alt="" coords="147,56,244,83"/>
+<area shape="rect" id="node7" href="$group__asprite.html#ga3ba5f13cec7e44bec201741e10565be8" title="Destroys a given animated sprite." alt="" coords="292,107,403,133"/>
+<area shape="rect" id="node8" href="$group__graphics.html#gac19350f0662b5c8fbb1a41e051411014" title="Gets the horizontal resolution of the game." alt="" coords="156,157,235,184"/>
+<area shape="rect" id="node9" href="$group__graphics.html#gab226d056720011120b05e68e5f4d4449" title="Gets the vertical resolution of the game." alt="" coords="157,208,234,235"/>
+<area shape="rect" id="node3" href="$group__asprite.html#ga1ac7715d45f4ae5e431a4da4c5655d69" title="Creates an animated sprite." alt="" coords="295,56,399,83"/>
+<area shape="rect" id="node4" href="$group__sprites.html#gaffac42b8b55dacd08b584a6d2d2214cb" title="Creates a new struct Sprite." alt="" coords="454,5,551,32"/>
+<area shape="rect" id="node5" href="$group__graphics.html#ga57cd22c02ee1e00c4752144b2afeb4a6" title="Gets the type of the xpm." alt="" coords="603,31,675,57"/>
+<area shape="rect" id="node6" href="$group__sprites.html#gaf16c6befaac9ffb673b9e3c798d542ed" title="Destroys a given Sprite." alt="" coords="451,107,555,133"/>
+</map>

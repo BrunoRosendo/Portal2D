@@ -1,0 +1,6 @@
+<map id="uart_unsubscribe_int" name="uart_unsubscribe_int">
+<area shape="rect" id="node1" title="Unsubscribes the interruptions of the UART." alt="" coords="405,5,548,32"/>
+<area shape="rect" id="node2" href="$group__uart.html#ga92768852b3683a90cfdbc8ba52950f18" title="Unsubscribes UART&#39;s interrupts and disables everything related." alt="" coords="285,5,357,32"/>
+<area shape="rect" id="node3" href="$group__loop.html#gaddc4b52fdc6479b0fef3869eefbe4b1e" title="Ends the game and exits the program. Unsubscribes interrupts." alt="" coords="163,5,237,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

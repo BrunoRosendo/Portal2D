@@ -1,0 +1,6 @@
+<map id="check_portals" name="check_portals">
+<area shape="rect" id="node1" title="Checks if the player is entering/leaving a portal (teleporting only)" alt="" coords="459,5,561,32"/>
+<area shape="rect" id="node2" href="$group__game.html#ga8fe6fe827e29e6b0cb98cda00dc38355" title="Draws a new frame and erases the old one." alt="" coords="292,5,411,32"/>
+<area shape="rect" id="node3" href="$group__loop.html#ga859307c43da5908cb529781d87068c29" title="Main loop of the game. Handles all the interruptions." alt="" coords="163,5,244,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>
